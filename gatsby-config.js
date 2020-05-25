@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `My Writer Hat`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Shubham Pandey`,
+      summary: `who is a software developer, and a people person with many hobbies.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `The writers hat of Shubham Pandey, software developer`,
+    siteUrl: `https://pandeyshubham.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `pandeyshubham75`,
     },
   },
   plugins: [
@@ -60,8 +60,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `My Writer Hat - Shubham Pandey`,
+        short_name: `MyWriterHat`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,

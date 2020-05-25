@@ -1,0 +1,17 @@
+---
+title: The Mini Success and Bootstrapping
+date: "2016-04-29T22:12:03.284Z"
+description: "Ever faced scenario where you feel, there’s so much to do, and it’s just impossible. I have something positive that I have experienced in the past."
+---
+
+We are all ambitious human beings and we dream a lot. Everything around us goes fast, and to keep up with this rapidly changing world is of course very difficult. Ever found lost, demotivated and so doubtful about yourself? Ever faced scenario where you feel, there’s so much to do, and it’s just impossible. But I have something positive that I have experienced in the past.
+
+Professionally, I had some ambitions regarding my career, everyone has those dreams, I understand. But college life is a hyperactive life. We’re always doing something, aren’t we? I had to face situations where I had so much to do, and I was practically doing nothing. My tasklist would be huge, and I would be hopeless. I thought, even if I would start doing something, it won’t do any help. It’s all a game of state of mind. In these situations, what I needed was a mini success. Some inspiration in form of anything. Accomplishment of a task, however small may it be, it creates a magical bootstrap effect.
+
+The mini success with me, would be in form of very unexpected things. Sometimes my tasklist would be to study 3-4 complete books. As usual, I’d have lost my way. I am studying one topic and even if I complete it, how much it would affect in the long run. But once I had completely understood it well, the feeling of understanding one concept would give me such a pleasure. This feeling is exactly what I call the mini success. This infact was a very general case. Sometimes, even successfully compiling and running a program would bootstrap me to solve very complex problems.
+
+Another example I wanted to mention here is when we planned to organize a technical event in my college. To make it popular and good, obviously we needed attractive prizes. Sponsorships, problem statements, invitations, there used to be so many things to be taken care of, by my team. They were all powered up enthusiasts. It took a lot of hard work by the team (Tushar, Vaibhav, Prakhar and many more) to get that thing accomplished. Prakhar and me, both often found ourselves in a position where whole plan of the event seemed collapsed. But again either of us was at times able to find mini sucess moments. That’s the beauty with Prakhar, he always comes up with the mini success moments. It might look really silly but those were very very small moments of joy, that apparently put everything right on track. Imagine this, there is so little time left, we don’t have the problem sets ready, we don’t have invitations sent. It all looks so hazy, we feel like dropping everything out. But then suddenly, Prakhar completes a graphic for a flex, and it’s mesmerizing. We forget all the negativity, and we team up again. One of us creates problem set, one of us sends invitation. Everything changes upside down.
+
+This thing hasn’t left me even now, as I am into my professional career. Sometimes, I find myself a bit demotivated as there is plenty left to be done. But again one ray of light kills all of it and I go along smoothly aligned to that mini success.
+
+The idea is simple. I just want you all to give this theory a chance. If you find yourself entangled in the nemesis of what seems impossible, just remember, you are, only and only a tiny step away from making a miracle.
